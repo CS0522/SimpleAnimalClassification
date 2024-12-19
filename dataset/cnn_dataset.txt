@@ -4,4 +4,5 @@ raw-img:
 Use 'split_raw_dataset.py' to get a full version of dataset.
 
 my mini dataset:
+	https://github.com/CS0522/SimpleAnimalClassification/releases/download/mini_dataset/cnn_dataset.zip
 	
