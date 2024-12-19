@@ -1,0 +1,1 @@
+[{'if': {'蹄': True, '长尾巴': True, '骑乘或拉车': True}, 'then': '马'}, {'if': {'羽毛': True, '喙': True, '下蛋': True}, 'then': '鸡'}, {'if': {'体型小': True, '柔软皮肤': True, '锋利牙齿和爪子': True}, 'then': '猫'}, {'if': {'体型多样': True, '毛发': True, '锋利牙齿': True, '人类伴侣': True}, 'then': '狗'}]

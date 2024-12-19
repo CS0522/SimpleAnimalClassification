@@ -1,0 +1,7 @@
+raw-img:
+	https://www.kaggle.com/datasets/alessiocorrado99/animals10?resource=download
+
+Use 'split_raw_dataset.py' to get a full version of dataset.
+
+my mini dataset:
+	
